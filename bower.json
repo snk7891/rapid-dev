@@ -1,0 +1,20 @@
+{
+  "name": "rapid-dev",
+  "version": "0.1.0",
+  "homepage": "https://github.com/snk7891/rapid-dev",
+  "authors": [
+    "Rob <robertobaldin@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
