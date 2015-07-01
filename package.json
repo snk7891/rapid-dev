@@ -1,0 +1,26 @@
+{
+  "name": "rapid-dev",
+  "version": "0.1.0",
+  "description": "Rapid Dev",
+  "scripts": {},
+  "keywords": [
+    "rapid",
+    "development"
+  ],
+  "author": "robertobaldin@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bower": "latest",
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-concat-vendor": "latest",
+    "gulp-jade": "latest",
+    "gulp-jshint": "latest",
+    "gulp-less": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-rename": "latest",
+    "gulp-uglify": "latest",
+    "minimist": "latest"
+  }
+}
